@@ -1,8 +1,8 @@
-Transit Optimisation under Ride Hailing Competition and Traffic Congestion ( by Naman Goel)
+# Transit Optimisation under Ride Hailing Competition and Traffic Congestion 
 
 
 
-Approach 1:
+## Approach 1:
 
 Introduction
 
@@ -20,7 +20,7 @@ After finding out the optimal locations of the stops ( proposed ), we find the l
 After that the shortest path between two stops is calculated to reduce the travel time and operation costs.
 
 
-Approach 2:
+## Approach 2:
 
 Introduction
 
