@@ -12,7 +12,9 @@ Mainly the two types of problems are faced:
 Increased ride hailing competition which is a direct result of improper transit network of public transportation which has led to the decrease in its ridership.
 Increased cost of transportation operations as the decrease in ridership of public transit has resulted in less revenue whereas the operation cost lies the same.
  
+ 
 Solution:
+
 The argument is that the present transit network is inconvenient and ineffective for a huge section of the population. The objective is to reduce travel time and increase network coverage. The optimal location of transit stops is the first difficulty to tackle.
 A new set of transit stops are initialized using block-level population data from the 2010 census by assigning weights to each intersection according to the population in its surrounding blocks. A suitable metric is defined to assign weights to each intersection by summing up the population of their surrounding blocks. After assigning weights to all the intersections, the transit stop locations are determined by finding out their reach within a suitable buffer zone.
  
